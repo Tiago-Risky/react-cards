@@ -1,0 +1,50 @@
+{
+    "items":[
+       {
+          "sentence":"Sentence A",
+          "answers":[
+             ["answer A","positive"],
+             ["answer B","negative"],
+             ["answer C","negative"],
+             ["answer D","negative"],
+             ["answer E","positive"]
+          ]
+       },
+       {
+          "sentence":"Sentence B",
+          "answers":[
+             ["answer 1","positive"],
+             ["answer 2","negative"],
+             ["answer 3","negative"],
+             ["answer 4","negative"]
+            ]
+       },
+       {
+          "sentence":"Sentence C",
+          "answers":[
+             ["answer A1","positive"],
+             ["answer B2","negative"],
+             ["answer C3","negative"],
+             ["answer D4","negative"]
+          ]
+       },
+       {
+          "sentence":"Sentence D",
+          "answers":[
+             ["answer Q","positive"],
+             ["answer W","negative"],
+             ["answer E","negative"],
+             ["answer R","negative"]
+          ]
+       },
+       {
+          "sentence":"Sentence E",
+          "answers":[
+             ["answer Z","positive"],
+             ["answer X","negative"],
+             ["answer C","negative"],
+             ["answer V","negative"]
+          ]
+       }
+    ]
+ }

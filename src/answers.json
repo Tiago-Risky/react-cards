@@ -1,0 +1,48 @@
+{
+    "items":[
+        {
+            "answer":"Answer A",
+            "style":1
+        },
+        {
+            "answer":"Answer B",
+            "style":2
+        },
+        {
+            "answer":"Answer C",
+            "style":3
+        },
+        {
+            "answer":"Answer D",
+            "style":2
+        },
+        {
+            "answer":"Answer E",
+            "style":2
+        },
+        {
+            "answer":"Answer F",
+            "style":1
+        },
+        {
+            "answer":"Answer G",
+            "style":3
+        },
+        {
+            "answer":"Answer H",
+            "style":1
+        },
+        {
+            "answer":"Answer I",
+            "style":3
+        },
+        {
+            "answer":"Answer J",
+            "style":2
+        },
+        {
+            "answer":"Answer K",
+            "style":1
+        }
+    ]
+}

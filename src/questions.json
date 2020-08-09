@@ -1,0 +1,32 @@
+{
+    "items":[
+        {
+            "sentence":"Sentence A",
+            "style":1
+        },
+        {
+            "sentence":"Sentence B",
+            "style":2
+        },
+        {
+            "sentence":"Sentence C",
+            "style":3
+        },
+        {
+            "sentence":"Sentence D",
+            "style":2
+        },
+        {
+            "sentence":"Sentence E",
+            "style":2
+        },
+        {
+            "sentence":"Sentence F",
+            "style":1
+        },
+        {
+            "sentence":"Sentence G",
+            "style":3
+        }
+    ]
+}
